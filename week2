@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<title> </title>
+
+		<script type="text/javascript">
+
+			var naam = prompt ("wat is uw naam?");
+			alert("welkom" + naam);
+
+
+		</script>
+
+
+	</head>
+	<body>
+
+
+	</body>
+</html>
